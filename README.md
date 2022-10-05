@@ -15,7 +15,7 @@ If you find the paper/code useful for your research, please consider citing our 
 ```
 @article{ghosh2022labelling,
   title={‘Labelling the Gaps’: A Weakly Supervised Automatic Eye Gaze Estimation},
-  author={Ghosh, Shreya and Dhall, Abhinav and Knibbe, Jarrod and Hayat, Munawar},
+  author={Ghosh, Shreya and Dhall, Abhinav and Hayat, Munawar and Knibbe, Jarrod},
   journal={arXiv preprint arXiv:2208.01840},
   year={2022}
 }
